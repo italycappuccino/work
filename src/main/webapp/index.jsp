@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Home</title>
+</head>
+<body>
+<h1>Welcome,Peter</h1>
+${msg}
+</body>
+<html>
